@@ -5,11 +5,6 @@ Catch a glimpse of my journey through the PwC Switzerland PowerBI Virtual Case E
 
 Inside this repository, you'll find a showcase of my progress, including the .pbix files and insights that I submitted during the program. The data files provided were assigned directly by PwC Switzerland to further enhance the authenticity of the experience.
 
-sdfsfd
-
-Scenario:
-At PwC, we collaborate with global partners, empowering our 276,000-strong workforce. Our mission? Make digital skills accessible to all. We nurture 'Digital Accelerators,' fast-tracking their expertise in data, automation, AI, and digital storytelling. Under Giulia's mentorship, you'll become a data Jedi and Digital Accelerator. A client awaits your data visualization skills.
-
 This virtual program unfolds in three tasks:
 
 [Task-1]: Create a Call Centre Dashboard - unveil customer and agent behaviors.
