@@ -1,11 +1,26 @@
-💼 PwC Virtual Internship – Data Analytics & Visualization
-I successfully completed the PwC Virtual Internship on Forage, where I worked on data analytics and visualization tasks, including:
+PwC Power BI Virtual Case Experience
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Introduction:
+Catch a glimpse of my journey through the PwC Switzerland PowerBI Virtual Case Experience by Forage. This virtual internship mirrors the dynamic environment of PwC Switzerland's Digital Accelerator team, all while harnessing the power of Power BI.
 
-✅ Data Cleaning & Transformation – Preprocessed raw data to improve data quality.
-✅ Data Analysis – Derived insights from sales, financial, and HR datasets.
-✅ Data Visualization – Created dashboards and reports using Power BI & Excel.
-✅ Business Insights – Identified key trends and recommendations for decision-making.
+Inside this repository, you'll find a showcase of my progress, including the .pbix files and insights that I submitted during the program. The data files provided were assigned directly by PwC Switzerland to further enhance the authenticity of the experience.
 
-🔗 Certificate: https://www.linkedin.com/posts/vijayalaxmishirnal_forage-certificate-activity-7292478337657012224-fFvr?utm_source=share&utm_medium=member_desktop
+sdfsfd
 
-🔗 Project Repository: 
+Scenario:
+At PwC, we collaborate with global partners, empowering our 276,000-strong workforce. Our mission? Make digital skills accessible to all. We nurture 'Digital Accelerators,' fast-tracking their expertise in data, automation, AI, and digital storytelling. Under Giulia's mentorship, you'll become a data Jedi and Digital Accelerator. A client awaits your data visualization skills.
+
+This virtual program unfolds in three tasks:
+
+[Task-1]: Create a Call Centre Dashboard - unveil customer and agent behaviors.
+
+[Task-2]: Shape Customer Retention & Predict Churn - leveraging customer data.
+
+[Task-3]: Champion Diversity & Inclusion in HR - spotlight gender balance in leadership
+
+Technical Stack:
+Microsoft Excel
+
+Microsoft PowerBI
+
+Microsoft PowerPoint (design layout)
